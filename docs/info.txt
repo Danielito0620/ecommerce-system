@@ -1,1 +1,2 @@
 Documentación
+Se agrega módulo de pagos
